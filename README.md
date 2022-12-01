@@ -2,7 +2,7 @@
 
 ### Welcome to my profile!✨
 
-I am Candelaria Ortiz Sosa, Graphic Designer with 3 years of experience and Front-End Development student.
+I'm Candelaria Ortiz, Graphic Designer with 3 years of experience and Front-End Development student.
 In the future I would like to combine the two careers to create functional and aesthetic websites.
 
 "Design is the fundamental soul of a man made creation" - Steve Jobs
