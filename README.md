@@ -2,10 +2,8 @@
 
 ### Welcome to my profile!✨
 
-I'm Candelaria Ortiz, Graphic Designer with 3 years of experience and Front-End Development student.
-In the future I would like to combine the two careers to create functional and aesthetic websites.
-
-"Design is the fundamental soul of a man made creation" - Steve Jobs
+Hi! I'm Candelaria Ortiz. I work as a Manual Tester and I'm currently studying Test Automation with Selenium and Java.
+My goal is to improve professionally in order to contribute better tests to my company.
 
 <!--
 **CandelariaOrtizSosa/candelariaortizsosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
