@@ -2,7 +2,7 @@
 
 ### Welcome to my profile!✨
 
-Hi! I'm Candelaria Ortiz. I work as a Manual Tester and I'm currently studying Test Automation with Selenium and Java.
+I'm Candelaria Ortiz, currently working as a QA Tester. My work involves manual testing as well as test automation using Selenium and Java.
 My goal is to improve professionally in order to contribute better tests to my company.
 
 <!--
