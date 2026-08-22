@@ -2,8 +2,7 @@
 
 ### Welcome to my profile!✨
 
-I'm Candelaria Ortiz, currently working as a QA Tester. My work involves manual testing as well as test automation using Selenium and Java.
-My goal is to improve professionally in order to contribute better tests to my company.
+Hi there! 👋 I'm Candelaria Ortiz, currently working as a QA Engineer. My work involves manual testing, test automation using Selenium and Playwright, and building AI agents to automate testing tasks. My goal is to keep growing professionally, strengthening my technical skills while also developing leadership abilities to contribute even more to my team and company.
 
 <!--
 **CandelariaOrtizSosa/candelariaortizsosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
